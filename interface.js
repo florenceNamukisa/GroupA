@@ -1,4 +1,4 @@
-// Simulating an interface in JavaScript
+
 class Animal {
     makeSound() {
         throw new Error("This method must be overridden!");
